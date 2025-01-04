@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     bash
-   git clone https://github.com/HarshRamedwar007/Internshala-Assignment-React-2-Online-Library-System-.git
+   git clone  https://github.com/HarshRamedwar007/Internshala-Assignment-Reactjs-2-.git
    
 
 2. Navigate to the project folder:
